@@ -43,3 +43,5 @@ DAX (Data Analysis Expressions) – for calculated measures and KPIs.
 3.Identification of critical workforce demographics prone to turnover.
 
 4.Data-driven HR recommendations for improving employee retention.
+
+[dashboard preview](https://github.com/rishidas133/Attrition-Dashboard-of-a-firm/blob/main/Snapshot%20HR%20attrition%20dashboard.png)
